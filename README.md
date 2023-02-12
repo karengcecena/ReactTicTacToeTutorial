@@ -1,3 +1,15 @@
+# Tic-Tac-Toe: Coffee vs Tea
+
+## 📖 Summary 
+
+This is based a project based on the React tutorial for tic-tac-toe. I spiced it up from regular tic-tac-toe by making it a competition between coffee & tea.
+
+<br>
+
+![alt text](https://github.com/karengcecena/ReactTicTacToeTutorial/blob/main/src/TTTSampleScreenshot "Sample Game Screenshot")
+
+# React's Description of the Tic-Tac-Toe Tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
