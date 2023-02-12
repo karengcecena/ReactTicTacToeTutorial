@@ -2,7 +2,7 @@
 
 ## 📖 Summary 
 
-This is based a project based on the React tutorial for tic-tac-toe. I spiced it up from regular tic-tac-toe by making it a competition between coffee & tea.
+This is a project based on the React tutorial for tic-tac-toe. I spiced it up from regular tic-tac-toe by making it a competition between coffee & tea.
 
 <br>
 
