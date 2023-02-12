@@ -6,7 +6,7 @@ This is a project based on the React tutorial for tic-tac-toe. I spiced it up fr
 
 <br>
 
-![alt text](https://github.com/karengcecena/ReactTicTacToeTutorial/blob/main/src/TTTSampleScreenshot.png "Sample Game Screenshot")
+![alt text](https://github.com/karengcecena/ReactTicTacToeTutorial/blob/main/src/TTTScreenshot.png "Sample Game Screenshot")
 
 # React's Description of the Tic-Tac-Toe Tutorial
 
